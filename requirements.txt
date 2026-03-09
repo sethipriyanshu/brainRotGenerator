@@ -1,0 +1,15 @@
+torch==2.5.0
+torchaudio==2.5.0
+flask
+IPython
+groq
+TTS
+requests
+transformers==4.40.2 
+accelerate
+celery
+redis
+dotenv
+moviepy
+# Pin bangla to a version compatible with Python 3.9 (TTS dependency)
+bangla<0.0.5
