@@ -81,9 +81,3 @@ Output is written to `final/final.mp4`.
 - `run.sh` — One-command setup and start.
 
 ---
-
-## Thanks
-
-- [Motu Hira’s forced alignment tutorial](https://pytorch.org/audio/main/tutorials/forced_alignment_tutorial.html) (PyTorch/wav2vec2).
-- [Coqui TTS](https://github.com/coqui-ai/TTS) for xTTS.
-
